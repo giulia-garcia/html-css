@@ -1,0 +1,25 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 a {
+  font-weight: bolder;
+  color: purple;
+}
+
+p {
+  font-size: 20px;
+}
+
+.hoje {
+  color: darkred;
+  font-weight: bold;
+}
+
+.amanha {
+  color: darkblue;
+}
